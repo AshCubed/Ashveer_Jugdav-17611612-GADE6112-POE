@@ -1,0 +1,19 @@
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\bin\Debug\Task 3.exe.config
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\bin\Debug\Task 3.exe
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\bin\Debug\Task 3.pdb
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task_3.Form1.resources
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task_3.Properties.Resources.resources
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task 3.csproj.GenerateResource.cache
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task 3.exe
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3\Task 3\obj\Debug\Task 3.pdb
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\bin\Debug\Task 3.exe.config
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\bin\Debug\Task 3.exe
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\bin\Debug\Task 3.pdb
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task_3.Form1.resources
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task_3.Properties.Resources.resources
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task 3.csproj.GenerateResource.cache
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task 3.exe
+D:\VEGA\Vega - Year 1 Semester 2\Game Development 1B\ASSIGNMENT WORK\Task 3 Hand In FINAL PROGRAMS\Task 3\Task 3\obj\Debug\Task 3.pdb
